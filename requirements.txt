@@ -1,0 +1,6 @@
+dotenv
+pyjokes
+slack_bolt
+logging
+os
+re

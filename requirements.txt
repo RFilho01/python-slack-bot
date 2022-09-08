@@ -1,3 +1,2 @@
-dotenv
 pyjokes
 slack_bolt
